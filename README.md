@@ -38,4 +38,4 @@ Tunnel projects in particular impose complex geometric and modeling requirements
 - Export: Mesh is saved in the FEMIX-compatible format for analysis.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
