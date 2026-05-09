@@ -1,0 +1,6 @@
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIGmshToFemix\bin\Debug\GmshToFemix.dll
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIGmshToFemix\bin\Debug\GmshToFemix.pdb
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIGmshToFemix\obj\Debug\GmshToFemix.csproj.AssemblyReference.cache
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIGmshToFemix\obj\Debug\GmshToFemix.csproj.CoreCompileInputs.cache
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIGmshToFemix\obj\Debug\GmshToFemix.dll
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIGmshToFemix\obj\Debug\GmshToFemix.pdb

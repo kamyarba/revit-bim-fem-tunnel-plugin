@@ -1,0 +1,527 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIApplication\\TurUpAIApplication.csproj": {}
+  },
+  "projects": {
+    "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIAbout\\TurUpAIAbout.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIAbout\\TurUpAIAbout.csproj",
+        "projectName": "TurUpAIAbout",
+        "projectPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIAbout\\TurUpAIAbout.csproj",
+        "packagesPath": "C:\\Users\\Kamyar\\.nuget\\packages\\",
+        "outputPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIAbout\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kamyar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.*, )"
+            },
+            "Nice3point.Revit.Api.RevitAPI": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            },
+            "Nice3point.Revit.Api.RevitAPIUI": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            },
+            "Nice3point.Revit.Build.Tasks": {
+              "target": "Package",
+              "version": "[2.*, )"
+            },
+            "Nice3point.Revit.Extensions": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            },
+            "Nice3point.Revit.Toolkit": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIApplication\\TurUpAIApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIApplication\\TurUpAIApplication.csproj",
+        "projectName": "TurUpAIApplication",
+        "projectPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIApplication\\TurUpAIApplication.csproj",
+        "packagesPath": "C:\\Users\\Kamyar\\.nuget\\packages\\",
+        "outputPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kamyar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIAbout\\TurUpAIAbout.csproj": {
+                "projectPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIAbout\\TurUpAIAbout.csproj"
+              },
+              "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIexportSetting\\TurUpAIexportSetting.csproj": {
+                "projectPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIexportSetting\\TurUpAIexportSetting.csproj"
+              },
+              "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIExportSurfaceToFemix\\TurUpAIExportSurfaceToFemix.csproj": {
+                "projectPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIExportSurfaceToFemix\\TurUpAIExportSurfaceToFemix.csproj"
+              },
+              "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAILinesegmentation\\TurUpAILinesegmentation.csproj": {
+                "projectPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAILinesegmentation\\TurUpAILinesegmentation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Nice3point.Revit.Api.RevitAPI": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            },
+            "Nice3point.Revit.Api.RevitAPIUI": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            },
+            "Nice3point.Revit.Build.Tasks": {
+              "target": "Package",
+              "version": "[2.*, )"
+            },
+            "Nice3point.Revit.Extensions": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            },
+            "Nice3point.Revit.Toolkit": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIexportSetting\\TurUpAIexportSetting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIexportSetting\\TurUpAIexportSetting.csproj",
+        "projectName": "TurUpAIexportSetting",
+        "projectPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIexportSetting\\TurUpAIexportSetting.csproj",
+        "packagesPath": "C:\\Users\\Kamyar\\.nuget\\packages\\",
+        "outputPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIexportSetting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kamyar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.*, )"
+            },
+            "Nice3point.Revit.Api.RevitAPI": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            },
+            "Nice3point.Revit.Api.RevitAPIUI": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            },
+            "Nice3point.Revit.Build.Tasks": {
+              "target": "Package",
+              "version": "[2.*, )"
+            },
+            "Nice3point.Revit.Extensions": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            },
+            "Nice3point.Revit.Toolkit": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIExportSurfaceToFemix\\TurUpAIExportSurfaceToFemix.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIExportSurfaceToFemix\\TurUpAIExportSurfaceToFemix.csproj",
+        "projectName": "TurUpAIExportSurfaceToFemix",
+        "projectPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIExportSurfaceToFemix\\TurUpAIExportSurfaceToFemix.csproj",
+        "packagesPath": "C:\\Users\\Kamyar\\.nuget\\packages\\",
+        "outputPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIExportSurfaceToFemix\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kamyar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIexportSetting\\TurUpAIexportSetting.csproj": {
+                "projectPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIexportSetting\\TurUpAIexportSetting.csproj"
+              },
+              "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIGmshToFemix\\GmshToFemix.csproj": {
+                "projectPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIGmshToFemix\\GmshToFemix.csproj"
+              },
+              "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAILinesegmentation\\TurUpAILinesegmentation.csproj": {
+                "projectPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAILinesegmentation\\TurUpAILinesegmentation.csproj"
+              },
+              "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIRunGmsh\\TurUpAIRunGmsh.csproj": {
+                "projectPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIRunGmsh\\TurUpAIRunGmsh.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.*, )"
+            },
+            "Nice3point.Revit.Api.RevitAPI": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            },
+            "Nice3point.Revit.Api.RevitAPIUI": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            },
+            "Nice3point.Revit.Build.Tasks": {
+              "target": "Package",
+              "version": "[2.*, )"
+            },
+            "Nice3point.Revit.Extensions": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            },
+            "Nice3point.Revit.Toolkit": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIGmshToFemix\\GmshToFemix.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIGmshToFemix\\GmshToFemix.csproj",
+        "projectName": "GmshToFemix",
+        "projectPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIGmshToFemix\\GmshToFemix.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAILinesegmentation\\TurUpAILinesegmentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAILinesegmentation\\TurUpAILinesegmentation.csproj",
+        "projectName": "TurUpAILinesegmentation",
+        "projectPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAILinesegmentation\\TurUpAILinesegmentation.csproj",
+        "packagesPath": "C:\\Users\\Kamyar\\.nuget\\packages\\",
+        "outputPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAILinesegmentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kamyar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.*, )"
+            },
+            "Nice3point.Revit.Api.RevitAPI": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            },
+            "Nice3point.Revit.Api.RevitAPIUI": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            },
+            "Nice3point.Revit.Build.Tasks": {
+              "target": "Package",
+              "version": "[2.*, )"
+            },
+            "Nice3point.Revit.Extensions": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            },
+            "Nice3point.Revit.Toolkit": {
+              "target": "Package",
+              "version": "[2025.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIRunGmsh\\TurUpAIRunGmsh.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIRunGmsh\\TurUpAIRunGmsh.csproj",
+        "projectName": "TurUpAIRunGmsh",
+        "projectPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAIRunGmsh\\TurUpAIRunGmsh.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

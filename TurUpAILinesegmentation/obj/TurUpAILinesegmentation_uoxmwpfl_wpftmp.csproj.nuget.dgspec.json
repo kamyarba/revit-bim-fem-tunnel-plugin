@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAILinesegmentation\\TurUpAILinesegmentation.csproj": {}
+  },
+  "projects": {
+    "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAILinesegmentation\\TurUpAILinesegmentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAILinesegmentation\\TurUpAILinesegmentation.csproj",
+        "projectName": "TurUpAILinesegmentation",
+        "projectPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAILinesegmentation\\TurUpAILinesegmentation.csproj",
+        "packagesPath": "C:\\Users\\Kamyar\\.nuget\\packages\\",
+        "outputPath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAILinesegmentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kamyar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.*, )"
+            },
+            "Nice3point.Revit.Api.RevitAPI": {
+              "target": "Package",
+              "version": "[2020.*, )"
+            },
+            "Nice3point.Revit.Api.RevitAPIUI": {
+              "target": "Package",
+              "version": "[2020.*, )"
+            },
+            "Nice3point.Revit.Build.Tasks": {
+              "target": "Package",
+              "version": "[2.*, )"
+            },
+            "Nice3point.Revit.Extensions": {
+              "target": "Package",
+              "version": "[2020.*, )"
+            },
+            "Nice3point.Revit.Toolkit": {
+              "target": "Package",
+              "version": "[2020.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

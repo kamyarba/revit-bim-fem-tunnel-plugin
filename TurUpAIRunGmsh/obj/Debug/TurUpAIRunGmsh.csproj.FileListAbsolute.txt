@@ -1,0 +1,13 @@
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIRunGmsh\bin\Debug\gmsh-4.13.dll
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIRunGmsh\bin\Debug\gmsh.exe
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIRunGmsh\bin\Debug\TurUpAIRunGmsh.dll
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIRunGmsh\bin\Debug\TurUpAIRunGmsh.pdb
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIRunGmsh\bin\Debug\GMsh.Net.dll
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIRunGmsh\bin\Debug\UnsafeEx.dll
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIRunGmsh\bin\Debug\GMsh.Net.pdb
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIRunGmsh\bin\Debug\UnsafeEx.pdb
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIRunGmsh\obj\Debug\TurUpAIRunGmsh.csproj.AssemblyReference.cache
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIRunGmsh\obj\Debug\TurUpAIRunGmsh.csproj.CoreCompileInputs.cache
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIRunGmsh\obj\Debug\TurUpAIR.55C68357.Up2Date
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIRunGmsh\obj\Debug\TurUpAIRunGmsh.dll
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIRunGmsh\obj\Debug\TurUpAIRunGmsh.pdb

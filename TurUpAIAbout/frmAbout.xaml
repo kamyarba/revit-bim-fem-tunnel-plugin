@@ -1,0 +1,36 @@
+﻿<Window x:Class="TurUpAIAbout.frmAbout"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TurUpAIAbout"
+        mc:Ignorable="d"
+        Title="frmAbout" Height="265" Width="475">
+    <Grid>
+        <TextBlock Text="Revit to Femix Add-in" 
+                   FontSize="16" 
+                   FontWeight="Bold" 
+                   HorizontalAlignment="Center" 
+                   Margin="0,20,0,0"/>
+        <TextBlock Text="Version 1.0.0" 
+                   FontSize="14" 
+                   HorizontalAlignment="Center" 
+                   Margin="0,50,0,0"/>
+        <TextBlock Text="This application is a part of TurUpAI project" 
+                   TextWrapping="Wrap" 
+                   HorizontalAlignment="Center" 
+                   Margin="10,80,10,0"/>
+        <TextBlock Text="Developers:" 
+                   FontWeight="Bold" 
+                   HorizontalAlignment="Left" 
+                   Margin="10,120,0,0"/>
+        <TextBlock Text="Kamyar B. Sh. (kamyar.ba@civil.uminho.pt)" 
+                   HorizontalAlignment="Left" 
+                   Margin="10,140,0,0"/>
+        <Button Content="Close" 
+                HorizontalAlignment="Center" 
+                VerticalAlignment="Top" 
+                Margin="0,194,0,0" 
+                Click="CloseButton_Click" Width="78"/>
+    </Grid>
+</Window>

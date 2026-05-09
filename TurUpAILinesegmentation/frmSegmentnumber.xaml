@@ -1,0 +1,19 @@
+﻿<Window x:Class="TurUpAILinesegmentation.frmSegmentnumber"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TurUpAILinesegmentation"
+        mc:Ignorable="d"
+        Title="frmSegmentnumber" Height="300" Width="600">
+    <Grid>
+        <Label Content="Number of nodes" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="21,39,0,0"/>
+        <TextBox x:Name="txtnPoint" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="129,43,0,0" Width="61"/>
+        <Button x:Name="btnOk" Content="OK" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="305,242,0,0" Width="76" Click="OkButton_Click"/>
+        <Label Content="(This overrides any other mesh element size prescription)" HorizontalAlignment="Left" Margin="212,39,0,0" VerticalAlignment="Top" Width="338"/>
+        <Label Content="Progression" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="21,70,0,0"/>
+        <TextBox x:Name="txtProgress" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="129,74,0,0" Width="61" Text="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="212,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Height="118" Width="338"><Run Text="Instructs the transfinite algorithm to distribute the nodes following a geometric progression."/><LineBreak/><Run Text="(Progression 2 meaning for example that each line element in the series will be twice as long as the preceding one)"/><LineBreak/><Run Text="(Use 1 for uniform placement)"/><LineBreak/><Run Text="(Use minus to reverse direction)"/></TextBlock>
+        <Button Content="Cancel" HorizontalAlignment="Left" Margin="212,242,0,0" VerticalAlignment="Top" Width="73" Click="Button_Click"/>
+    </Grid>
+</Window>

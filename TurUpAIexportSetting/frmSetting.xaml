@@ -1,0 +1,17 @@
+﻿<Window x:Class="TurUpAIexportSetting.frmSetting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TurUpAIexportSetting"
+        mc:Ignorable="d"
+        Title="frmSetting" Height="300" Width="500">
+    <Grid>
+        <Button x:Name="btnOk" Content="Ok" HorizontalAlignment="Left" Margin="258,237,0,0" VerticalAlignment="Top" Width="93" Click="btnOk_Click"/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="144,237,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.561,-0.903" Width="93" Click="btnCancel_Click"/>
+        <Label Content="Prescribed mesh size" HorizontalAlignment="Left" Margin="44,67,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtMeshsize" HorizontalAlignment="Left" Margin="177,71,0,0" TextWrapping="Wrap" Text="10" VerticalAlignment="Top" Width="120"/>
+        <Label Content="mm" HorizontalAlignment="Left" Margin="302,67,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

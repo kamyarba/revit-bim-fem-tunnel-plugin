@@ -1,0 +1,4 @@
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAILinesegmentation\obj\Debug R20\TurUpAILinesegmentation.csproj.AssemblyReference.cache
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAILinesegmentation\obj\Debug R20\frmSegmentnumber.g.cs
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAILinesegmentation\obj\Debug R20\TurUpAILinesegmentation_MarkupCompile.cache
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAILinesegmentation\obj\Debug R20\TurUpAILinesegmentation_MarkupCompile.lref

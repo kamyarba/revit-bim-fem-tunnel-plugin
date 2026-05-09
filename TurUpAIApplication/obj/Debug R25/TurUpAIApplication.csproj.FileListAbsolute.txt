@@ -1,0 +1,6 @@
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIApplication\obj\Debug R25\TurUpAIApplication.csproj.AssemblyReference.cache
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIApplication\obj\Debug R25\TurUpAIApplication.g.resources
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIApplication\obj\Debug R25\TurUpAIApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIApplication\obj\Debug R25\TurUpAIApplication.AssemblyInfoInputs.cache
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIApplication\obj\Debug R25\TurUpAIApplication.AssemblyInfo.cs
+D:\PhD\TurUpAI\Revit-Plugin\TurUpAIRevitAddin\TurUpAIApplication\obj\Debug R25\TurUpAIApplication.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ITReioPBKU4=",
+  "success": true,
+  "projectFilePath": "D:\\PhD\\TurUpAI\\Revit-Plugin\\TurUpAIRevitAddin\\TurUpAILinesegmentation\\TurUpAILinesegmentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kamyar\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.2\\communitytoolkit.mvvm.8.4.2.nupkg.sha512",
+    "C:\\Users\\Kamyar\\.nuget\\packages\\nice3point.revit.api.revitapi\\2025.4.41\\nice3point.revit.api.revitapi.2025.4.41.nupkg.sha512",
+    "C:\\Users\\Kamyar\\.nuget\\packages\\nice3point.revit.api.revitapiui\\2025.4.41\\nice3point.revit.api.revitapiui.2025.4.41.nupkg.sha512",
+    "C:\\Users\\Kamyar\\.nuget\\packages\\nice3point.revit.build.tasks\\2.0.2\\nice3point.revit.build.tasks.2.0.2.nupkg.sha512",
+    "C:\\Users\\Kamyar\\.nuget\\packages\\nice3point.revit.extensions\\2025.2.0\\nice3point.revit.extensions.2025.2.0.nupkg.sha512",
+    "C:\\Users\\Kamyar\\.nuget\\packages\\nice3point.revit.toolkit\\2025.2.0\\nice3point.revit.toolkit.2025.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

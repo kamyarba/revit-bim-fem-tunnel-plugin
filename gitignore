@@ -1,0 +1,12 @@
+# Ignore build outputs
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.cache
+*.log
+
+# Ignore OS files
+.DS_Store
+Thumbs.db

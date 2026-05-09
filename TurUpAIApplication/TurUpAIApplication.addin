@@ -1,0 +1,11 @@
+﻿<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>TurUpAIApplication</Name>
+        <Assembly>TurUpAIApplication/TurUpAIApplication.dll</Assembly>
+        <AddInId>0DDF07E2-F2FF-4FDD-9511-8CAC8BD91C1F</AddInId>
+        <FullClassName>TurUpAIApplication.Application</FullClassName>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+        <VendorEmail></VendorEmail>
+    </AddIn>
+</RevitAddIns>
